@@ -1,0 +1,9 @@
+vs/
+Debug/
+*.sln
+*.db
+*.opendb
+Debug/Debug
+*.vcxproj
+*.filters
+*.user
