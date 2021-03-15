@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 *.o
 *.exe
 
+=======
+vs/
+Debug/
+*.sln
+*.db
+*.opendb
+Debug/Debug
+*.vcxproj
+*.filters
+*.user
+>>>>>>> b21158bde104eda46ee6b6a87e493e480d980047
