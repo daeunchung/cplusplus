@@ -17,4 +17,15 @@ BB/Debug/Debug
 *.dev
 *.layout
 Makefile.win
+*.idb
+*.pdb
+*.suo
+hw1a
+hw1b
+hw1a.cpp
+recta.cpp
+recta.h
+hw1b.cpp
+rectb.cpp
+rectb.h
 
