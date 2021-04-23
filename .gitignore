@@ -29,3 +29,6 @@ hw1b.cpp
 rectb.cpp
 rectb.h
 
+*.log
+*.tlog
+*.obj

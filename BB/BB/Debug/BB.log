@@ -1,3 +1,5 @@
-﻿  hw1b.cpp
-  BB.vcxproj -> C:\Users\user\Desktop\BB\Debug\BB.exe
-  BB.vcxproj -> C:\Users\user\Desktop\BB\Debug\BB.pdb (Full PDB)
+﻿  boj1012.cpp
+  PLHW5.cpp
+C:\Users\user\Desktop\AA\BB\BB\PLHW5.cpp(11,7): warning C4101: 'arr2' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  BB.vcxproj -> C:\Users\user\Desktop\AA\BB\Debug\BB.exe
