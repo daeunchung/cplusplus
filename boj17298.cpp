@@ -1,5 +1,5 @@
 // Ai와 Ai의 오큰수 사이에는 Ai 보다 작은 숫자만 올 수 있다
-// 21-12-26
+// 21-12-27
 #include <iostream>
 #include <string>
 #include <stack>
