@@ -5,7 +5,6 @@ using namespace std;
 int N;
 int arr[11];	// N < 11
 int main() {
-
 	int T;
 	cin >> T;
 	arr[1] = 1;
