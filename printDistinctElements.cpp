@@ -89,7 +89,7 @@ void printDistinct4()
 	cout << "]";
 }
 
-// with set?
+// 왜 set을 가지고 하는 코드는 긱스포긱스에 없는지 잘 모르겠다.. 너무 당연한 자료구조 성질이라 그런가..
 /*
 set 과 unordered_set 의 차이
 set은 정렬 되어있는 상태에서 탐색을 하므로 O(logN) 시간이 걸린다. 평균도 최악도!
