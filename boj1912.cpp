@@ -1,5 +1,5 @@
-/* 연속합 1912 연속합2 13398 */
-
+///* 연속합 1912 연속합2 13398 */
+//
 //#include <iostream>
 //#include <algorithm>
 //#include <vector>

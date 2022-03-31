@@ -19,15 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="boj10818입출력.cpp" />
-    <ClCompile Include="boj10866.cpp" />
-    <ClCompile Include="boj10866_2.cpp" />
-    <ClCompile Include="boj1676.cpp" />
-    <ClCompile Include="boj17087.cpp" />
-    <ClCompile Include="boj17298.cpp" />
-    <ClCompile Include="boj17299.cpp" />
-    <ClCompile Include="boj2004.cpp" />
-    <ClCompile Include="boj9613.cpp" />
+    <ClCompile Include="boj11049.cpp" />
+    <ClCompile Include="boj11657.cpp" />
+    <ClCompile Include="boj13160.cpp" />
+    <ClCompile Include="boj14003.cpp" />
+    <ClCompile Include="boj14226.cpp" />
+    <ClCompile Include="boj14391_브루트포스.cpp" />
+    <ClCompile Include="boj14500.cpp" />
+    <ClCompile Include="boj15649_2.cpp" />
+    <ClCompile Include="boj1717.cpp" />
+    <ClCompile Include="boj1725.cpp" />
+    <ClCompile Include="boj1725_withStack.cpp" />
+    <ClCompile Include="boj1922.cpp" />
+    <ClCompile Include="boj2217.cpp" />
+    <ClCompile Include="boj2580.cpp" />
+    <ClCompile Include="boj3055.cpp" />
+    <ClCompile Include="boj7576.cpp" />
     <ClCompile Include="이론.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -41,26 +48,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
