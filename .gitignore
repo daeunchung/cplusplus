@@ -75,8 +75,10 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 
-.vcxproj
-.vcxproj.filters
-.suo
-,db-shm
-.db-wal
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.db-shm
+*.db-wal
+*.vcxproj
+*.filters
